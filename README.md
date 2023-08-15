@@ -10,9 +10,9 @@ A Neumorphism-style Analog Clock created using HTML, CSS, and JavaScript, with s
 - Dark & Light Modes: The clock smoothly transitions between dark and light modes, offering user adaptability and a visually pleasing experience.
 - Real-time Display: The analog clock accurately displays the current time, providing both a functional timekeeping tool and an elegant design element.
 
-## Demo
+## Check it out on Codepen!
 
-![Clock Demo GIF](link_to_demo_gif)
+![Neumorphism Analog Clock](https://codepen.io/saad-muhammad01/pen/gOZYbeL)
 
 ## Usage
 
