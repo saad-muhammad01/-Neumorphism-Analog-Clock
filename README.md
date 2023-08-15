@@ -13,7 +13,7 @@ A Neumorphism-style Analog Clock created using HTML, CSS, and JavaScript, with s
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/yourusername/neumorphism-analog-clock.git`
+1. Clone the repository: `git clone https://github.com/saad-muhammad01/neumorphism-analog-clock.git`
 2. Open the `index.html` file in your web browser.
 3. Explore the Neumorphism-style Analog Clock and enjoy its dark and light modes.
 
@@ -26,5 +26,3 @@ Contributions are welcome! If you find any issues or have ideas for improvements
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize and expand upon this template to provide more details about your project and how others can use it. Good luck with your GitHub upload!
