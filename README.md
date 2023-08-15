@@ -1,6 +1,7 @@
 # Neumorphism Analog Clock
 
 ![Neumorphism Analog Clock](https://res.cloudinary.com/dptauqdp8/image/upload/v1692121113/Screenshot_2023-08-15_213743_vwikhu.png)
+![Neumorphism Analog Clock](https://res.cloudinary.com/dptauqdp8/image/upload/v1692121171/Screenshot_2023-08-15_213922_mtubay.png)
 
 A Neumorphism-style Analog Clock created using HTML, CSS, and JavaScript, with support for both dark and light modes.
 
