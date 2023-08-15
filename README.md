@@ -1,6 +1,6 @@
 # Neumorphism Analog Clock
 
-![Clock Demo](link_to_demo_screenshot_or_gif)
+![Neumorphism Analog Clock](https://res.cloudinary.com/dptauqdp8/image/upload/v1692121113/Screenshot_2023-08-15_213743_vwikhu.png)
 
 A Neumorphism-style Analog Clock created using HTML, CSS, and JavaScript, with support for both dark and light modes.
 
@@ -9,10 +9,6 @@ A Neumorphism-style Analog Clock created using HTML, CSS, and JavaScript, with s
 - Neumorphism design: The clock features a sleek Neumorphism design that adds a modern touch to the classic analog clock concept.
 - Dark & Light Modes: The clock smoothly transitions between dark and light modes, offering user adaptability and a visually pleasing experience.
 - Real-time Display: The analog clock accurately displays the current time, providing both a functional timekeeping tool and an elegant design element.
-
-## Check it out on Codepen!
-
-![Neumorphism Analog Clock](https://codepen.io/saad-muhammad01/pen/gOZYbeL)
 
 ## Usage
 
